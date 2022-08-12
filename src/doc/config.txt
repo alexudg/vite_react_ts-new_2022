@@ -1,0 +1,27 @@
+* Pre-requisites:
+  - os: win7x64 sp1
+  - node: 14.17.6 (lastest special installation on win7)
+  - npm: 6.14.15
+  - 
+
+* Create:
+  > npm create vite@latest
+
+  ? Project name: vite_react_ts-new_2022
+  ? Select a framework: react
+  ? Select a variant: react ts
+  
+  Done. Now run:
+  cd vite_react_ts-new_2022
+  npm install
+  npm run dev
+
+* Open folder with vs-code:
+  > cd vite_react_ts-new_2022
+  > code .
+  close terminal and open new terminal on vs-code
+
+* On vs-code terminal:
+  > npm install
+  > npm run dev
+  click on http://127.0.0.1:<port>
